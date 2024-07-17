@@ -1,0 +1,6 @@
+---
+label: "log"
+project:
+- id: "main"
+  path: "FCTSUMMERCAMP.slcp"
+  output: "."
